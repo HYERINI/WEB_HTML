@@ -72,9 +72,20 @@ JAVASCRIPT : 웹을 이용하는 유저와 상호작용 하기 위한 기능을 추가할 때 쓰는 언어
 -> <a 키="값">구글</a>
 -> <a 링크주소="www.google.com">구글</a>
 -> 여러 개의 속성을 갖고 있을 때에는 띄어쓰기로 구분
-
-
-
+-> <a href = "www.naver.com">naver</a>
+   => naver라는 링크이름을 클릭하면 위의 주소로 넘어감
+-> <a href = "www.naver.com" target = "_blank">naver</a>
+   => 위와 다르게 새로운 창에서 링크를 띄워준다
+-> <a href = "./index.html">name</a>
+   => html링크를 달고 싶으면 앞에 ./추가
+->  <a href = "https://en.wikipedia.org/wiki/Brown_bear" target = "_blank">
+    <img scr = "https://en.wikipedia.org/wiki/Brown_bear"/></a>
+    => 이미지를 같이 감싸서 페이지에 이미지를 변환한다 (?)
+-> <li><a href = "#Introduction">introduction</a></li>
+   => 링크가 연결되는데 클릭하면 <div id = "introduction> 부분으로 넘어감(페이지안에서)
+   
+-> 주석 달기 
+   <!--content-->
 
 
 

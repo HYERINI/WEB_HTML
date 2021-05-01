@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>회원가입 하는 폼 만들어보기</title>
+    </head>
+    <body>
+        <h3>회원가입</h3>
+        <ol>
+            <li value="1">아이디를 입력한다</li>
+            <li>비밀번호를 입력한다</li>
+            <li>성별을 선택한다</li>
+            <li>직업을 선택한다</li>
+            <li>간단한 자기소개를 작성한다</li>
+            <li>제출한다</li>
+        </ol>
+        <form action="app" method="get">
+            <div>
+                <label for = "userid">아이디 : </label>
+                <input type="text" id="userid" name="id" placeholder="아이디를 입력하시오">
+            </div><br>
+            <div>
+                <label for = "userpw">비밀번호 : </label>   
+                <input type="password" id="userpw" name="password" placeholder="비밀번호를 입력하시오">  
+            </div><br>
+            <div>
+                <label for = "gender">성별 : </label>
+                <select name = "gender" id="gender">
+                    <option value = "male">남성</option>
+                    <option value = "female">여성</option>
+                </select>
+            </div><br>
+            <div>
+                <label for = "job">직업 : </label>
+                <select name = "job" id = "job">
+                   <option value = "student">학생</option>
+                   <option value = "teacher">교사</option>
+                   <option value = "parent">학부모</option>
+                </select>
+            </div><br>
+            <div>
+                <label for = "introduce">자기 소개 : </label>
+                <textarea name = "introduce" cols="30" rows=10" placeholder="자기소개를 입력하시오"></textarea>
+            </div><br>
+            <div>
+                <button type = "reset">리셋하기</button>
+                <button type = "submit">제출</button>
+            </div>
+        </form>
+    </body>
+</html>
+
+<!-- input값을 다 넣었을 때의 주소값 =>
+    file:///C:/Users/%EC%9D%B4%ED%98%9C%EB%A6%B0/Desktop/html/html%20%EC%8B%A4%EC%8A%B5/app?id=%EC%95%84%EC%9D%B4%EB%94%94&password=qlalfqjsgh&gender=female&job=student&introduce=%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-->

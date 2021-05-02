@@ -1,0 +1,19 @@
+[[bootstrap]]
+
+부트스트랩이란?
+-> CSS/JavaScript 기반 웹 프레임워크(웹 프레임워크 : 웹을 만드는 자료들의 모음)
+-> 오픈 소스 , 반응형 웹 지원(자동화면조정), 브라우저 호환성
+
+부트스트랩을 사용하기 위해서는 head부분에 적어줘야 하는 코드가 있다
+        <script
+        src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"></script>
+        <!-- 합쳐지고 최소화된 최신 CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+        <!-- 부가적인 테마 -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+        <!-- 합쳐지고 최소화된 최신 자바스크립트 -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>

@@ -68,10 +68,20 @@ Inline Style : HTML요소에 직접 style 속성(Attributes)을 이용하여 CSS를 작성
                                     : 선택자A 선택자B {color:blue;}
                                     
                                    
-                               
+                                   
+4. 숫자값과 백분율
 
+-> position 프로퍼티에 사용할 수 있는 값은 정해져있음 (static, absolute, relative, fixed)
+-> 숫자값 : 너비, 높이, 글자 크기  -> px단위(화소) : 절대길이
+                          -> em단위 : 현재 스타일이 지정된 요소의 font-size 기준 : 상대길이
+                          -> rem단위 : 최상위 요소의 font-size 기준 : 상대길이    
+                          -> 1em(1rem)의 크기 = 기준 font-size * 1em(1rem)
+                             ex) 10em(rem) = 16px * 10 = 160px 
+                          -> %(퍼센트) : 상대길이
+                                     : 보통 이미지나 레이아웃의 너비나 높이를 지정할 때 씀                    
   
-  
+-> 색상 표현하기 -> hex code, rgb, hsl
+          
   
   
   

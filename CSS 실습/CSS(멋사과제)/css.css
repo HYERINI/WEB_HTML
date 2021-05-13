@@ -1,0 +1,54 @@
+
+header{background: skyblue;}
+nav{background: lightpink;}
+aside{background: lightgray;}
+footer{background: lightseagreen}
+
+#main{
+    display: flex;
+    flex: 1;
+}
+.content{
+    flex: 70%;
+    padding: 40px;
+}
+.aside{
+    flex: 30%;
+    padding: 40px;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header{
+    padding: 30px;
+    text-align: center;
+}
+.navbar a{
+    padding: 8px;
+    margin-right: 20px;
+}
+.navbar a:hover{
+    color: black;
+    background-color:white ;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    display:flex;
+    flex-direction: column;
+}
+#main{
+    flex:1;
+}
+.foot{
+    flex-shrink: 0;
+}

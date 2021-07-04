@@ -1,209 +1,210 @@
-ÇÁ·Î±×·¥ÄÚµå(program code)
-: ÄÄÇ»ÅÍ ÇÁ·Î±×·¥À» ÇÁ·Î±×·¡¹Ö ¾ð¾î·Î ÀÛ¼ºÇÑ ÄÚµå
+í”„ë¡œê·¸ëž¨ì½”ë“œ(program code)
+: ì»´í“¨í„° í”„ë¡œê·¸ëž¨ì„ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ë¡œ ìž‘ì„±í•œ ì½”ë“œ
 
-ÇÁ·Î±×·¡¹Ö : ÄÚµå¸¦ ÀÛ¼ºÇÏ´Â ÇàÀ§
-ÇÁ·Î±×·¡¹Ö ¾ð¾î : ÄÄÇ»ÅÍ¿¡ ¸í·É ³»¸®±â À§ÇÑ ¾ð¾î
+í”„ë¡œê·¸ëž˜ë° : ì½”ë“œë¥¼ ìž‘ì„±í•˜ëŠ” í–‰ìœ„
+í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ : ì»´í“¨í„°ì— ëª…ë ¹ ë‚´ë¦¬ê¸° ìœ„í•œ ì–¸ì–´
 
-À¥À» ÀÌ·ç´Â Áß¿äÇÑ ÇÁ·Î±×·¡¹Ö ¾ð¾î ¼¼°¡Áö
+ì›¹ì„ ì´ë£¨ëŠ” ì¤‘ìš”í•œ í”„ë¡œê·¸ëž˜ë° ì–¸ì–´ ì„¸ê°€ì§€
 HTML. CSS. JAVASCRIPt
 
-HTML : HyperText -> ¼ø¼­´ë·Î°¡ ¾Æ´Ñ ¿øÇÏ´Â °÷À¸·Î ¿Å±æ ¼ö ÀÖÀ½
-       Markup Language -> ÅÂ±×¸¦ ÀÌ¿ëÇØ ¹®¼­³ª µ¥ÀÌÅÍÀÇ ±¸Á¶¸¦ ¸í½ÃÇÏ´Â ¾ð¾î
-      Áï, HTMLÀÌ¶õ À¥ ÆäÀÌÁöÀÇ ±¸Á¶ È¤Àº µ¥ÀÌÅÍ ÀÛ¼ºÀ» À§ÇÑ ¸¶Å©¾÷ ¾ð¾î
+HTML : HyperText -> ìˆœì„œëŒ€ë¡œê°€ ì•„ë‹Œ ì›í•˜ëŠ” ê³³ìœ¼ë¡œ ì˜®ê¸¸ ìˆ˜ ìžˆìŒ
+       Markup Language -> íƒœê·¸ë¥¼ ì´ìš©í•´ ë¬¸ì„œë‚˜ ë°ì´í„°ì˜ êµ¬ì¡°ë¥¼ ëª…ì‹œí•˜ëŠ” ì–¸ì–´
+      ì¦‰, HTMLì´ëž€ ì›¹ íŽ˜ì´ì§€ì˜ êµ¬ì¡° í˜¹ì€ ë°ì´í„° ìž‘ì„±ì„ ìœ„í•œ ë§ˆí¬ì—… ì–¸ì–´
 CSS : Cascading Style Sheets
-    : Style Sheets : À¥ ÆäÀÌÁöÀÇ ½ºÅ¸ÀÏ°ú °ü·ÃµÈ ¸ðµç °ÍÀ» Á¤ÇØµÒ
-    : Áï, À¥ÆäÀÌÁö¿¡ °üÇÑ ´Ù¾çÇÑ ½ºÅ¸ÀÏµéÀ» Á¤ÀÇ
-JAVASCRIPT : À¥À» ÀÌ¿ëÇÏ´Â À¯Àú¿Í »óÈ£ÀÛ¿ë ÇÏ±â À§ÇÑ ±â´ÉÀ» Ãß°¡ÇÒ ¶§ ¾²´Â ¾ð¾î
+    : Style Sheets : ì›¹ íŽ˜ì´ì§€ì˜ ìŠ¤íƒ€ì¼ê³¼ ê´€ë ¨ëœ ëª¨ë“  ê²ƒì„ ì •í•´ë‘ 
+    : ì¦‰, ì›¹íŽ˜ì´ì§€ì— ê´€í•œ ë‹¤ì–‘í•œ ìŠ¤íƒ€ì¼ë“¤ì„ ì •ì˜
+JAVASCRIPT : ì›¹ì„ ì´ìš©í•˜ëŠ” ìœ ì €ì™€ ìƒí˜¸ìž‘ìš© í•˜ê¸° ìœ„í•œ ê¸°ëŠ¥ì„ ì¶”ê°€í•  ë•Œ ì“°ëŠ” ì–¸ì–´
 
 
-À¥ÆäÀÌÁöÀÇ structure ´ã´ç  : HTML
-À¥ÆäÀÌÁöÀÇ style ´ã´ç  : CSS
-À¥ÆäÀÌÁöÀÇ behaviors ´ã´ç  : JAVASCRIPT
+ì›¹íŽ˜ì´ì§€ì˜ structure ë‹´ë‹¹  : HTML
+ì›¹íŽ˜ì´ì§€ì˜ style ë‹´ë‹¹  : CSS
+ì›¹íŽ˜ì´ì§€ì˜ behaviors ë‹´ë‹¹  : JAVASCRIPT
 
-ÅÂ±× : ³»¿ëÀ» ³ª´©°í ¾î¶² ¿ªÇÒÀ» ÇÏ´ÂÁö ±¸Á¶¸¦ Á¤ÀÇ
-½ÃÀÛ ÅÂ±× : ÄÁÅÙÃ÷ÀÇ ½ÃÀÛÀ» Ç¥½Ã
-Á¾·á ÅÂ±× : ÄÁÅÙÃ÷ÀÇ ³¡À» Ç¥½Ã
-
-
-
-<!DOCTYPE HTML> : ¹®¼­ Çü½ÄÀ» Á¤ÀÇÇÑ´Ù.
-<html lang = "kr">  : html¹®¼­ ³»¿¡¼­ <html></html>Àº 
-                      µü ÇÑ¹ø¸¸ »ç¿ëÇÒ ¼ö ÀÖ´Ù.
-                    : º»°ÝÀûÀÎ ÅÂ±×ÀÇ ½ÃÀÛ
-                    : »ç¿ëÇÏ´Â ÁÖ ¾ð¾î¸¦ Á¤ÀÇ
-<meta charset="utf-8"> : ¹®¼­¿Í °ü·ÃµÈ Á¤º¸¸¦ ´ãÀ½
-                       : ÇÑ±ÛÀÌ ±úÁöÁö ¾Êµµ·Ï µµ¿ÍÁÜ
-<title> À¥ ºê¶ó¿ìÀúÀÇ Á¦¸ñÀ» ´ã´Â ÅÂ±×
-<body> º»¹®À» Àû´Â ÅÂ±×
+íƒœê·¸ : ë‚´ìš©ì„ ë‚˜ëˆ„ê³  ì–´ë–¤ ì—­í• ì„ í•˜ëŠ”ì§€ êµ¬ì¡°ë¥¼ ì •ì˜
+ì‹œìž‘ íƒœê·¸ : ì»¨í…ì¸ ì˜ ì‹œìž‘ì„ í‘œì‹œ
+ì¢…ë£Œ íƒœê·¸ : ì»¨í…ì¸ ì˜ ëì„ í‘œì‹œ
 
 
-[[·¹ÀÌ¾Æ¿ôlayout]]
 
-½Ã¸ÇÆ½ÅÂ±×(semantic tag) : ÀÇ¹Ì¸¦ °¡Áö°í ÀÖ´Â ÅÂ±×
-1. header : À¥ÆäÀÌÁö È¤Àº <section>ÀÇ ¼Ò°³³ª Á¦¸ñÀ» ´ã±â À§ÇØ »ç¿ëÇÏ´Â ¿ä¼Ò
-2. nav : ³×ºñ°ÔÀÌ¼Ç ¿ªÇÒ, ÆäÀÌÁö ÀÌµ¿À» À§ÇÑ ¸Þ´º¸¦ ÁÖ·Î ´ã°í ÀÕÀ½
-3. section : ±âÁØ¿¡ µû¶ó ±¸È¹À» ±¸ºÐÇÏ±â À§ÇØ »ç¿ëÇÏ´Â ¿ä¼Ò
-4. article : ÁÖ ³»¿ëÀ» ´ã±â À§ÇÑ ÅÂ±×
-5. aside : ±¤°í³ª »çÀÌÆ®ÀÇ ÁÖº¯ ºÎºÐ¿¡ ÇØ´çÇÏ´Â ³»¿ëÀ» ´ã±â À§ÇÑ ÅÂ±× --> ÁÖ·Î ±¤°í
-6. footer : À¥»çÀÌÆ®ÀÇ °¡Àå ¾Æ·¡ -> È¸»ç Á¤º¸¿Í °°Àº Ãß°¡ Á¤º¸¸¦ ´ã±â À§ÇØ »ç¿ëÇÏ´Â ¿ä¼Ò
+<!DOCTYPE HTML> : ë¬¸ì„œ í˜•ì‹ì„ ì •ì˜í•œë‹¤.
+<html lang = "kr">  : htmlë¬¸ì„œ ë‚´ì—ì„œ <html></html>ì€ 
+                      ë”± í•œë²ˆë§Œ ì‚¬ìš©í•  ìˆ˜ ìžˆë‹¤.
+                    : ë³¸ê²©ì ì¸ íƒœê·¸ì˜ ì‹œìž‘
+                    : ì‚¬ìš©í•˜ëŠ” ì£¼ ì–¸ì–´ë¥¼ ì •ì˜
+<meta charset="utf-8"> : ë¬¸ì„œì™€ ê´€ë ¨ëœ ì •ë³´ë¥¼ ë‹´ìŒ
+                       : í•œê¸€ì´ ê¹¨ì§€ì§€ ì•Šë„ë¡ ë„ì™€ì¤Œ
+<title> ì›¹ ë¸Œë¼ìš°ì €ì˜ ì œëª©ì„ ë‹´ëŠ” íƒœê·¸
+<body> ë³¸ë¬¸ì„ ì ëŠ” íƒœê·¸
+<br> ì¤„ë°”ê¿ˆíƒœê·¸
 
-[[ÅØ½ºÆ®¿Í °ü·ÃµÈ ÅÂ±×]]
 
-Á¦¸ñ ÅÂ±× : Á¦¸ñÀ» ³ªÅ¸³»°í ½ÍÀ» ¶§ »ç¿ë
-       : Áß¿äµµ¿¡ µû¶ó 1~6±îÁö ¾¸(h1~h6)
+[[ë ˆì´ì•„ì›ƒlayout]]
 
-º»¹® ÅÂ±× : ÇÑ ³»¿ë(¹®´Ü)ÀÌ¶ó°í »ý°¢µÇ¸é p ÅÂ±×·Î ¹­À¸¸é µÊ
-       : ¿£ÅÍ¸¦ ÃÄµµ ÀÎ½Ä ¸øÇÔ -> brÅÂ±× »ç¿ë (brÅÂ±×´Â Á¾·áÅÂ±×°¡ ¾øÀ½)
-         preÅÂ±×´Â µé¿©¾²±â¸¦ ±×´ë·Î È­¸é¿¡ ³ªÅ¸³¿
+ì‹œë§¨í‹±íƒœê·¸(semantic tag) : ì˜ë¯¸ë¥¼ ê°€ì§€ê³  ìžˆëŠ” íƒœê·¸
+1. header : ì›¹íŽ˜ì´ì§€ í˜¹ì€ <section>ì˜ ì†Œê°œë‚˜ ì œëª©ì„ ë‹´ê¸° ìœ„í•´ ì‚¬ìš©í•˜ëŠ” ìš”ì†Œ
+2. nav : ë„¤ë¹„ê²Œì´ì…˜ ì—­í• , íŽ˜ì´ì§€ ì´ë™ì„ ìœ„í•œ ë©”ë‰´ë¥¼ ì£¼ë¡œ ë‹´ê³  ìž‡ìŒ
+3. section : ê¸°ì¤€ì— ë”°ë¼ êµ¬íšì„ êµ¬ë¶„í•˜ê¸° ìœ„í•´ ì‚¬ìš©í•˜ëŠ” ìš”ì†Œ
+4. article : ì£¼ ë‚´ìš©ì„ ë‹´ê¸° ìœ„í•œ íƒœê·¸
+5. aside : ê´‘ê³ ë‚˜ ì‚¬ì´íŠ¸ì˜ ì£¼ë³€ ë¶€ë¶„ì— í•´ë‹¹í•˜ëŠ” ë‚´ìš©ì„ ë‹´ê¸° ìœ„í•œ íƒœê·¸ --> ì£¼ë¡œ ê´‘ê³ 
+6. footer : ì›¹ì‚¬ì´íŠ¸ì˜ ê°€ìž¥ ì•„ëž˜ -> íšŒì‚¬ ì •ë³´ì™€ ê°™ì€ ì¶”ê°€ ì •ë³´ë¥¼ ë‹´ê¸° ìœ„í•´ ì‚¬ìš©í•˜ëŠ” ìš”ì†Œ
+
+[[í…ìŠ¤íŠ¸ì™€ ê´€ë ¨ëœ íƒœê·¸]]
+
+ì œëª© íƒœê·¸ : ì œëª©ì„ ë‚˜íƒ€ë‚´ê³  ì‹¶ì„ ë•Œ ì‚¬ìš©
+       : ì¤‘ìš”ë„ì— ë”°ë¼ 1~6ê¹Œì§€ ì”€(h1~h6)
+
+ë³¸ë¬¸ íƒœê·¸ : í•œ ë‚´ìš©(ë¬¸ë‹¨)ì´ë¼ê³  ìƒê°ë˜ë©´ p íƒœê·¸ë¡œ ë¬¶ìœ¼ë©´ ë¨
+       : ì—”í„°ë¥¼ ì³ë„ ì¸ì‹ ëª»í•¨ -> bríƒœê·¸ ì‚¬ìš© (bríƒœê·¸ëŠ” ì¢…ë£Œíƒœê·¸ê°€ ì—†ìŒ)
+         preíƒœê·¸ëŠ” ë“¤ì—¬ì“°ê¸°ë¥¼ ê·¸ëŒ€ë¡œ í™”ë©´ì— ë‚˜íƒ€ëƒ„
         
-±ÛÀÚ¿Í °ü·ÃµÈ ÅÂ±× : strongÅÂ±× : ´Ü¾î °­Á¶ (±½ÀºÃ¼·Î ³ªÅ¸³¿)
-             : emÅÂ±× : ´Ü¾î °­Á¶ (¿·À¸·Î ÈÖ¾îÁø Ã¼)
-             : subÅÂ±× : ÀÏ¹ÝÀ§Ä¡º¸´Ù ¾Æ·¡·Î(·Î±×ÀÇ ¹Ø)
-             : supÅÂ±× : ÀÏ¹ÝÀ§Ä¡º¸´Ù À§·Î(Á¦°öÀÇ Áö¼ö)
-             : insÅÂ±× : ¹ØÁÙ
-             : delÅÂ±× : Ãë¼Ò¼± 
+ê¸€ìžì™€ ê´€ë ¨ëœ íƒœê·¸ : strongíƒœê·¸ : ë‹¨ì–´ ê°•ì¡° (êµµì€ì²´ë¡œ ë‚˜íƒ€ëƒ„)
+             : emíƒœê·¸ : ë‹¨ì–´ ê°•ì¡° (ì˜†ìœ¼ë¡œ íœ˜ì–´ì§„ ì²´)
+             : subíƒœê·¸ : ì¼ë°˜ìœ„ì¹˜ë³´ë‹¤ ì•„ëž˜ë¡œ(ë¡œê·¸ì˜ ë°‘)
+             : supíƒœê·¸ : ì¼ë°˜ìœ„ì¹˜ë³´ë‹¤ ìœ„ë¡œ(ì œê³±ì˜ ì§€ìˆ˜)
+             : insíƒœê·¸ : ë°‘ì¤„
+             : delíƒœê·¸ : ì·¨ì†Œì„  
             
-[[¸µÅ©ÅÂ±×]]
--> ÇÏÀÌÆÛ¸µÅ© ¿ªÇÒÀ» ÇÔ
+[[ë§í¬íƒœê·¸]]
+-> í•˜ì´í¼ë§í¬ ì—­í• ì„ í•¨
 -> URL(Uniform Resource Locator) 
-   : ÀÎÅÍ³Ý¿¡¼­ HTML ÆäÀÌÁö, CSS ¹®¼­, ÀÌ¹ÌÁö µî ÀÚ¿ø(resource)ÀÇ À§Ä¡¸¦ ³ªÅ¸³¿ 
-   1) Àý´ëURL(Absolute URL)
-      Á¢±ÙÇÏ´Â ÃÖÃÊ ½ÃÀÛÁ¡ºÎÅÍ °æÀ¯ÇÑ °æ·Î¸¦ ¸ðµÎ ±â·ÏÇÏ¿© ¸®¼Ò½ºÀÇ À§Ä¡¸¦ ³ªÅ¸³¿
-   2) »ó´ëURL(Relative URL)
-      ±âÁØÁ¡À» ±âÁØÀ¸·Î »ó´ëÀûÀÎ °æ·Î¸¦ ±â·ÏÇÏ¿© ¸®¼Ò½ºÀÇ À§Ä¡¸¦ ³ªÅ¸³¿   
+   : ì¸í„°ë„·ì—ì„œ HTML íŽ˜ì´ì§€, CSS ë¬¸ì„œ, ì´ë¯¸ì§€ ë“± ìžì›(resource)ì˜ ìœ„ì¹˜ë¥¼ ë‚˜íƒ€ëƒ„ 
+   1) ì ˆëŒ€URL(Absolute URL)
+      ì ‘ê·¼í•˜ëŠ” ìµœì´ˆ ì‹œìž‘ì ë¶€í„° ê²½ìœ í•œ ê²½ë¡œë¥¼ ëª¨ë‘ ê¸°ë¡í•˜ì—¬ ë¦¬ì†ŒìŠ¤ì˜ ìœ„ì¹˜ë¥¼ ë‚˜íƒ€ëƒ„
+   2) ìƒëŒ€URL(Relative URL)
+      ê¸°ì¤€ì ì„ ê¸°ì¤€ìœ¼ë¡œ ìƒëŒ€ì ì¸ ê²½ë¡œë¥¼ ê¸°ë¡í•˜ì—¬ ë¦¬ì†ŒìŠ¤ì˜ ìœ„ì¹˜ë¥¼ ë‚˜íƒ€ëƒ„   
    
 -> <a> </a>
--> ÅÂ±× ÀÌ¸§ µÚ¿¡ ¼Ó¼º(attribute)À» Ãß°¡ÇÒ ¼ö ÀÖÀ½
--> ¼Ó¼º : ÅÂ±×¿¡ ´ëÇØ Ãß°¡ÀûÀÎ Á¤º¸ Á¦°ø
-        HTMLÀÇ ¸ðµç ÅÂ±×´Â ¼Ó¼ºÀ» °¡Áú ¼ö ÀÖÀ½
--> <a Å°="°ª">±¸±Û</a>
--> <a ¸µÅ©ÁÖ¼Ò="www.google.com">±¸±Û</a>
--> ¿©·¯ °³ÀÇ ¼Ó¼ºÀ» °®°í ÀÖÀ» ¶§¿¡´Â ¶ç¾î¾²±â·Î ±¸ºÐ
+-> íƒœê·¸ ì´ë¦„ ë’¤ì— ì†ì„±(attribute)ì„ ì¶”ê°€í•  ìˆ˜ ìžˆìŒ
+-> ì†ì„± : íƒœê·¸ì— ëŒ€í•´ ì¶”ê°€ì ì¸ ì •ë³´ ì œê³µ
+        HTMLì˜ ëª¨ë“  íƒœê·¸ëŠ” ì†ì„±ì„ ê°€ì§ˆ ìˆ˜ ìžˆìŒ
+-> <a í‚¤="ê°’">êµ¬ê¸€</a>
+-> <a ë§í¬ì£¼ì†Œ="www.google.com">êµ¬ê¸€</a>
+-> ì—¬ëŸ¬ ê°œì˜ ì†ì„±ì„ ê°–ê³  ìžˆì„ ë•Œì—ëŠ” ë„ì–´ì“°ê¸°ë¡œ êµ¬ë¶„
 
 -> <a href = "www.naver.com">naver</a>
-   => naver¶ó´Â ¸µÅ©ÀÌ¸§À» Å¬¸¯ÇÏ¸é À§ÀÇ ÁÖ¼Ò·Î ³Ñ¾î°¨
+   => naverë¼ëŠ” ë§í¬ì´ë¦„ì„ í´ë¦­í•˜ë©´ ìœ„ì˜ ì£¼ì†Œë¡œ ë„˜ì–´ê°
 -> <a href = "www.naver.com" target = "_blank">naver</a>
-   => ÇöÀç ÅÇ¿¡¼­ ¸µÅ©¸¦ ¿©´Â ¼Ó¼º
+   => í˜„ìž¬ íƒ­ì—ì„œ ë§í¬ë¥¼ ì—¬ëŠ” ì†ì„±
 -> <a href = "www.naver.com" target = "_self">naver</a>
-   => »õ ÅÇ(Ã¢)¿¡¼­ ¸µÅ©¸¦ ¿©´Â ¼Ó¼º
+   => ìƒˆ íƒ­(ì°½)ì—ì„œ ë§í¬ë¥¼ ì—¬ëŠ” ì†ì„±
 -> <a href = "./index.html">name</a>
-   => html¸µÅ©¸¦ ´Þ°í ½ÍÀ¸¸é ¾Õ¿¡ ./Ãß°¡
+   => htmlë§í¬ë¥¼ ë‹¬ê³  ì‹¶ìœ¼ë©´ ì•žì— ./ì¶”ê°€
 ->  <a href = "https://en.wikipedia.org/wiki/Brown_bear" target = "_blank">
     <img scr = "https://en.wikipedia.org/wiki/Brown_bear"/></a>
-    => ÀÌ¹ÌÁö¸¦ °°ÀÌ °¨½Î¼­ ÆäÀÌÁö¿¡ ÀÌ¹ÌÁö¸¦ º¯È¯ÇÑ´Ù (?)
+    => ì´ë¯¸ì§€ë¥¼ ê°™ì´ ê°ì‹¸ì„œ íŽ˜ì´ì§€ì— ì´ë¯¸ì§€ë¥¼ ë³€í™˜í•œë‹¤ (?)
 -> <li><a href = "#Introduction">introduction</a></li>
-   => ¸µÅ©°¡ ¿¬°áµÇ´Âµ¥ Å¬¸¯ÇÏ¸é <div id = "introduction> ºÎºÐÀ¸·Î ³Ñ¾î°¨(ÆäÀÌÁö¾È¿¡¼­)
+   => ë§í¬ê°€ ì—°ê²°ë˜ëŠ”ë° í´ë¦­í•˜ë©´ <div id = "introduction> ë¶€ë¶„ìœ¼ë¡œ ë„˜ì–´ê°(íŽ˜ì´ì§€ì•ˆì—ì„œ)
    
--> ÁÖ¼® ´Þ±â 
+-> ì£¼ì„ ë‹¬ê¸° 
    <!--content-->
   
-[[ÀÌ¹ÌÁö ÅÂ±×]]
--> <img>ÅÂ±×
-   : <img src = "ÀÌ¹ÌÁö url">     //ÀÌ¹ÌÁöÅÂ±×´Â ºñ¾îÀÖ´Â ¼Ó¼ºÀÌ±â ¶§¹®¿¡ Á¾·áÅÂ±× ¾øÀ½
-     => src = "ÀÌ¹ÌÁö url" : ºÒ·¯¿Ã ÀÌ¹ÌÁöÀÇ URLÀ» ¼Ó¼º °ªÀ¸·Î °¡Áü
-                         : src´Â source(±Ù¿ø)ÀÇ ¾àÀÚ
+[[ì´ë¯¸ì§€ íƒœê·¸]]
+-> <img>íƒœê·¸
+   : <img src = "ì´ë¯¸ì§€ url">     //ì´ë¯¸ì§€íƒœê·¸ëŠ” ë¹„ì–´ìžˆëŠ” ì†ì„±ì´ê¸° ë•Œë¬¸ì— ì¢…ë£Œíƒœê·¸ ì—†ìŒ
+     => src = "ì´ë¯¸ì§€ url" : ë¶ˆëŸ¬ì˜¬ ì´ë¯¸ì§€ì˜ URLì„ ì†ì„± ê°’ìœ¼ë¡œ ê°€ì§
+                         : srcëŠ” source(ê·¼ì›)ì˜ ì•½ìž
 
-   : <img src = "ÀÌ¹ÌÁö url" alt = "»çÁø¼³¸í">
-     => alt="»çÁø¼³¸í" : ºÒ·¯¿Ã ÀÌ¹ÌÁö°¡ ¾ø°Å³ª ºÒ·¯¿À´Âµ¥ ½ÇÆÐÇßÀ» °æ¿ì ´ë½Å Ç¥½ÃµÇ´Â ¹®Àå
-                    : alternative text(´ëÃ¼¹®±¸)ÀÇ ¾àÀÚ
-   : ³×ÀÌ¹ö¿¡¼­ ÀÌ¹ÌÁö °í¸£°í ÀÌ¹ÌÁöÀÇ ÁÖ¼Ò º¹»çÇØÁÖ¸é ÀÌ¹ÌÁöÀÇ urlÀÌ º¹»çµÉ°ÅÀÓ -> º¹ºÙ!
+   : <img src = "ì´ë¯¸ì§€ url" alt = "ì‚¬ì§„ì„¤ëª…">
+     => alt="ì‚¬ì§„ì„¤ëª…" : ë¶ˆëŸ¬ì˜¬ ì´ë¯¸ì§€ê°€ ì—†ê±°ë‚˜ ë¶ˆëŸ¬ì˜¤ëŠ”ë° ì‹¤íŒ¨í–ˆì„ ê²½ìš° ëŒ€ì‹  í‘œì‹œë˜ëŠ” ë¬¸ìž¥
+                    : alternative text(ëŒ€ì²´ë¬¸êµ¬)ì˜ ì•½ìž
+   : ë„¤ì´ë²„ì—ì„œ ì´ë¯¸ì§€ ê³ ë¥´ê³  ì´ë¯¸ì§€ì˜ ì£¼ì†Œ ë³µì‚¬í•´ì£¼ë©´ ì´ë¯¸ì§€ì˜ urlì´ ë³µì‚¬ë ê±°ìž„ -> ë³µë¶™!
 
--> weight = "¼öÄ¡"
-   height = "¼öÄ¡" 
-   : ÀÌ¹ÌÁöÀÇ ³ôÀÌ¿Í ³Êºñ¸¦ ÁöÁ¤ÇÒ ¶§ ¾²´Â ¼Ó¼º (imgÅÂ±× ¾È¿¡ ³Ö¾îÁÖ¸é µÊ)
-     CSS¿¡¼­ Á¶Á¤ÇÏ±â¸¦ ±ÇÀåÇÑ´Ù
--> ¿µ»ó ³Ö´Â ¹æ¹ý
-   youtubeÀÇ ¿µ»ó¿¡¼­ °øÀ¯ - ¸µÅ© ÆÛ°¡±â - ÄÚµå º¹»ç - ºÙ¿©³Ö±â
+-> weight = "ìˆ˜ì¹˜"
+   height = "ìˆ˜ì¹˜" 
+   : ì´ë¯¸ì§€ì˜ ë†’ì´ì™€ ë„ˆë¹„ë¥¼ ì§€ì •í•  ë•Œ ì“°ëŠ” ì†ì„± (imgíƒœê·¸ ì•ˆì— ë„£ì–´ì£¼ë©´ ë¨)
+     CSSì—ì„œ ì¡°ì •í•˜ê¸°ë¥¼ ê¶Œìž¥í•œë‹¤
+-> ì˜ìƒ ë„£ëŠ” ë°©ë²•
+   youtubeì˜ ì˜ìƒì—ì„œ ê³µìœ  - ë§í¬ í¼ê°€ê¸° - ì½”ë“œ ë³µì‚¬ - ë¶™ì—¬ë„£ê¸°
    : EX) <iframe src="https://www.youtube.com/embed/IRNBtocmQ58></iframe>
-     - ¿©±â¼­ IR~~8Àº À¯Æ©ºê ¿µ»ó ID
-       ¿µ»ó IDÀÇ ¼öÁ¤À¸·Î ´Ù¸¥ À¯Æ©ºê ¿µ»óÀ¸·Î ¹Ù²Ü ¼ö ÀÖÀ½
+     - ì—¬ê¸°ì„œ IR~~8ì€ ìœ íŠœë¸Œ ì˜ìƒ ID
+       ì˜ìƒ IDì˜ ìˆ˜ì •ìœ¼ë¡œ ë‹¤ë¥¸ ìœ íŠœë¸Œ ì˜ìƒìœ¼ë¡œ ë°”ê¿€ ìˆ˜ ìžˆìŒ
        
-[[Å×ÀÌºí]]
+[[í…Œì´ë¸”]]
 
--> <table>ÅÂ±× : Ç¥ ¸¸µé±â
--> Ç¥ÀÇ ±¸¼º : Á¦¸ñ ¼¿ ,µ¥ÀÌÅÍ ¼¿, Çà
+-> <table>íƒœê·¸ : í‘œ ë§Œë“¤ê¸°
+-> í‘œì˜ êµ¬ì„± : ì œëª© ì…€ ,ë°ì´í„° ì…€, í–‰
   
--> <table> : Ç¥ ÀüÃ¼¸¦ °¨½Î´Â ÅÂ±×
-   <tr>    : Ç¥¿¡¼­ ÇàÀ» ±¸ºÐÇÏ´Â ÅÂ±× (table row)
-   <th>    : Ç¥ÀÇ Çà ³»ºÎ¿¡ Á¦¸ñ ¼¿À» ´ã´Â ÅÂ±× (table heading)
-   <td>    : Ç¥ÀÇ Çà ³»ºÎ¿¡ µ¥ÀÌÅÍ ¼¿À» ´ã´Â ÅÂ±× (table data
+-> <table> : í‘œ ì „ì²´ë¥¼ ê°ì‹¸ëŠ” íƒœê·¸
+   <tr>    : í‘œì—ì„œ í–‰ì„ êµ¬ë¶„í•˜ëŠ” íƒœê·¸ (table row)
+   <th>    : í‘œì˜ í–‰ ë‚´ë¶€ì— ì œëª© ì…€ì„ ë‹´ëŠ” íƒœê·¸ (table heading)
+   <td>    : í‘œì˜ í–‰ ë‚´ë¶€ì— ë°ì´í„° ì…€ì„ ë‹´ëŠ” íƒœê·¸ (table data
    
--> rowspan="¼ýÀÚ" : "¼ýÀÚ"¸¸Å­ ¼¿ÀÌ ÇàÀ» Á¡À¯
-   colspan="¼ýÀÚ" : "¼ýÀÚ"¸¸Å­ ¼¿ÀÌ ¿­À» Á¡À¯
-   => td³ª trÅÂ±× ¾È¿¡ ½áÁÖ¸é µÊ
+-> rowspan="ìˆ«ìž" : "ìˆ«ìž"ë§Œí¼ ì…€ì´ í–‰ì„ ì ìœ 
+   colspan="ìˆ«ìž" : "ìˆ«ìž"ë§Œí¼ ì…€ì´ ì—´ì„ ì ìœ 
+   => tdë‚˜ tríƒœê·¸ ì•ˆì— ì¨ì£¼ë©´ ë¨
    
-[[¸ñ·Ï]]
+[[ëª©ë¡]]
 
--> ¼ø¼­ ¾ø´Â ¸ñ·Ï(unordered list)
-   => <ul></ul>ÅÂ±× 
+-> ìˆœì„œ ì—†ëŠ” ëª©ë¡(unordered list)
+   => <ul></ul>íƒœê·¸ 
    
--> ¼ø¼­ ÀÖ´Â ¸ñ·Ï(ordered list)
-   => <ol></ol>ÅÂ±×
+-> ìˆœì„œ ìžˆëŠ” ëª©ë¡(ordered list)
+   => <ol></ol>íƒœê·¸
    
-   -> ¸ñ·ÏÀº <li></li>ÅÂ±×
+   -> ëª©ë¡ì€ <li></li>íƒœê·¸
  
--> ¼Ó¼º 
-   <ol>ÅÂ±× (ÅÂ±× ¾È¿¡ Àû¾îÁÖ¸é µÊ)
-   => start="¼ýÀÚ"   : ¸®½ºÆ®°¡ ½ÃÀÛÇÏ´Â ¼ýÀÚ¸¦ Á¤ÇÔ
-   => type="¹®ÀÚ"    : ¼ø¼­¸¦ ½ÃÀÛÇÏ´Â ¹®ÀÚ¸¦ Á¤ÇÔ
-   => reversed     : ¼ø¼­¸¦ ¹Ý´ë·Î ½ÃÀÛ, ´Ù¸¥ ¼Ó¼º°ú ´Þ¸® Å°(Key)¸¸ ½á¼­ »ç¿ë
+-> ì†ì„± 
+   <ol>íƒœê·¸ (íƒœê·¸ ì•ˆì— ì ì–´ì£¼ë©´ ë¨)
+   => start="ìˆ«ìž"   : ë¦¬ìŠ¤íŠ¸ê°€ ì‹œìž‘í•˜ëŠ” ìˆ«ìžë¥¼ ì •í•¨
+   => type="ë¬¸ìž"    : ìˆœì„œë¥¼ ì‹œìž‘í•˜ëŠ” ë¬¸ìžë¥¼ ì •í•¨
+   => reversed     : ìˆœì„œë¥¼ ë°˜ëŒ€ë¡œ ì‹œìž‘, ë‹¤ë¥¸ ì†ì„±ê³¼ ë‹¬ë¦¬ í‚¤(Key)ë§Œ ì¨ì„œ ì‚¬ìš©
    
-   <li>ÅÂ±×
-   => value="¼ýÀÚ"   : ÇØ´çÇÏ´Â ¸®½ºÆ® ¾ÆÀÌÅÛÀÇ ¹øÈ£¸¦ ÁöÁ¤
+   <li>íƒœê·¸
+   => value="ìˆ«ìž"   : í•´ë‹¹í•˜ëŠ” ë¦¬ìŠ¤íŠ¸ ì•„ì´í…œì˜ ë²ˆí˜¸ë¥¼ ì§€ì •
 
-[[Æû ÅÂ±×]]
--> À¥ ºê¶ó¿ìÀú¿¡¼­ ¼­¹ö·Î µ¥ÀÌÅÍ¸¦ º¸³½´Ù
-   ÀÌ µ¥ÀÌÅÍ´Â header¿Í body·Î ÀÌ·ç¾îÁø message¿¡ ´ã°Ü¼­ º¸³»Áø´Ù.
+[[í¼ íƒœê·¸]]
+-> ì›¹ ë¸Œë¼ìš°ì €ì—ì„œ ì„œë²„ë¡œ ë°ì´í„°ë¥¼ ë³´ë‚¸ë‹¤
+   ì´ ë°ì´í„°ëŠ” headerì™€ bodyë¡œ ì´ë£¨ì–´ì§„ messageì— ë‹´ê²¨ì„œ ë³´ë‚´ì§„ë‹¤.
    
--> <form>ÅÂ±× : Æû¿¡ Æ÷ÇÔµÇ´Â ´Ù¾çÇÑ ÀÔ·Â ¾ç½Ä ÅÂ±×µéÀ» °¨½ÎÁÜ
-            : ¿©±âºÎÅÍ ¿©±â±îÁö°¡ formÀÌ¿¡¿ä~
+-> <form>íƒœê·¸ : í¼ì— í¬í•¨ë˜ëŠ” ë‹¤ì–‘í•œ ìž…ë ¥ ì–‘ì‹ íƒœê·¸ë“¤ì„ ê°ì‹¸ì¤Œ
+            : ì—¬ê¸°ë¶€í„° ì—¬ê¸°ê¹Œì§€ê°€ formì´ì—ìš”~
 
--> action : µ¥ÀÌÅÍ¸¦ º¸³¾ URLÀ» ÁöÁ¤
--> method : º¸³»´Â ¹æ½ÄÀ» ÁöÁ¤
-  => method="get"   : µ¥ÀÌÅÍ¸¦ URL ³¡¿¡ ºÙ¿© ´«¿¡ º¸ÀÌ°Ô º¸³¿ (¿±¼­Ã³·³)
-     method="post"  : µ¥ÀÌÅÍ¸¦ URL¿¡ ÀûÁö ¾Ê°í ³»ºÎ¿¡ ¼û°Ü¼­ º¸³¿ (¹ÐºÀµÈ ÆíÁöÃ³·³)
+-> action : ë°ì´í„°ë¥¼ ë³´ë‚¼ URLì„ ì§€ì •
+-> method : ë³´ë‚´ëŠ” ë°©ì‹ì„ ì§€ì •
+  => method="get"   : ë°ì´í„°ë¥¼ URL ëì— ë¶™ì—¬ ëˆˆì— ë³´ì´ê²Œ ë³´ëƒ„ (ì—½ì„œì²˜ëŸ¼)
+     method="post"  : ë°ì´í„°ë¥¼ URLì— ì ì§€ ì•Šê³  ë‚´ë¶€ì— ìˆ¨ê²¨ì„œ ë³´ëƒ„ (ë°€ë´‰ëœ íŽ¸ì§€ì²˜ëŸ¼)
 
-¡Ú ¸Å¿ì Áß¿ä ¡Ú
--> get¹æ½Ä Æ¯Â¡ : µ¥ÀÌÅÍ Á¶È¸ ¸¸À» ¸ñÀûÀ¸·Î ÇÒ ¶§ ÁÖ·Î ¾²ÀÓ
-             : EX) °Ë»ö¾î°¡ ¹Ù²î¸é ÁÖ¼ÒÃ¢¿¡¼­µµ °°ÀÌ ¹Ù²ñ
--> post¹æ½Ä Æ¯Â¡ : ¼­¹ö¿¡ ÀÖ´Â µ¥ÀÌÅÍ¸¦ ¾²°Å³ª ¼öÁ¤, »èÁ¦ÇÒ ¶§ ÁÖ·Î »ç¿ëµÊ
-              : EX) °Ô½Ã¹° ÀÛ¼º , »èÁ¦ÇØµµ ÁÖ¼ÒÃ¢Àº ±×´ë·Î
+â˜… ë§¤ìš° ì¤‘ìš” â˜…
+-> getë°©ì‹ íŠ¹ì§• : ë°ì´í„° ì¡°íšŒ ë§Œì„ ëª©ì ìœ¼ë¡œ í•  ë•Œ ì£¼ë¡œ ì“°ìž„
+             : EX) ê²€ìƒ‰ì–´ê°€ ë°”ë€Œë©´ ì£¼ì†Œì°½ì—ì„œë„ ê°™ì´ ë°”ë€œ
+-> postë°©ì‹ íŠ¹ì§• : ì„œë²„ì— ìžˆëŠ” ë°ì´í„°ë¥¼ ì“°ê±°ë‚˜ ìˆ˜ì •, ì‚­ì œí•  ë•Œ ì£¼ë¡œ ì‚¬ìš©ë¨
+              : EX) ê²Œì‹œë¬¼ ìž‘ì„± , ì‚­ì œí•´ë„ ì£¼ì†Œì°½ì€ ê·¸ëŒ€ë¡œ
               
--> <input>ÅÂ±× : »ç¿ëÀÚ¿¡°Ô ÀÔ·ÂÀ» ¹Þ±â À§ÇØ »ç¿ëµÇ´Â ÅÂ±×, ºó ÅÂ±×
-   => <input type = "text"> : <input>ÅÂ±×ÀÇ Á¾·ù¸¦ °áÁ¤
-   => <input type = "text", name = "id"> : <input>ÅÂ±× Áß °°Àº Å¸ÀÔ°ú ±¸ºÐµÇ´Â ÀÌ¸§À» °áÁ¤
-   => input Ä­ ¾È¿¡ ¾ÆÀÌµð¸¦ ÀÔ·ÂÇÏ¸é ÁÖ¼ÒÃ¢¿¡µµ °°ÀÌ ¶ä (get ¹æ½ÄÀ» »ç¿ëÇßÀ» ¶§)
-   => placeholder="¾ÆÀÌµð¸¦ ÀÔ·ÂÇÏ¼¼¿ä." : input¿¡ ¾Æ¹« °ªµµ ÀÔ·ÂµÇÁö ¾Ê¾ÒÀ» ¶§ ³ªÅ¸³ª´Â ÅØ½ºÆ® 
-   => value="soonho" : ½ÇÁ¦ ÇÒ´çµÇ´Â °ª
-                     : ¿ì¸®°¡ µ¥ÀÌÅÍ¸¦ ³ÖÀ¸¸é ÀÌ ¼Ó¼º¿¡ °ªÀÌ µé¾î°¨
-                     : ÃÊ±â°ªÃ³·³ µÑ ¼ö ÀÖÀ½
-                     : input Ä­ ¾È¿¡ soonho¶ó°í ÀûÇôÀÖÀ»°Å°í ¸¶¿ì½º¸¦ Å¬¸¯ÇØµµ »ç¶óÁöÁö ¾ÊÀ» °ÍÀÓ
-                       °ªÀ» ÀûÀ¸¸é soonhoµÚ¿¡ ÀÌ¾îÁ®¼­ ÀûÈû
+-> <input>íƒœê·¸ : ì‚¬ìš©ìžì—ê²Œ ìž…ë ¥ì„ ë°›ê¸° ìœ„í•´ ì‚¬ìš©ë˜ëŠ” íƒœê·¸, ë¹ˆ íƒœê·¸
+   => <input type = "text"> : <input>íƒœê·¸ì˜ ì¢…ë¥˜ë¥¼ ê²°ì •
+   => <input type = "text", name = "id"> : <input>íƒœê·¸ ì¤‘ ê°™ì€ íƒ€ìž…ê³¼ êµ¬ë¶„ë˜ëŠ” ì´ë¦„ì„ ê²°ì •
+   => input ì¹¸ ì•ˆì— ì•„ì´ë””ë¥¼ ìž…ë ¥í•˜ë©´ ì£¼ì†Œì°½ì—ë„ ê°™ì´ ëœ¸ (get ë°©ì‹ì„ ì‚¬ìš©í–ˆì„ ë•Œ)
+   => placeholder="ì•„ì´ë””ë¥¼ ìž…ë ¥í•˜ì„¸ìš”." : inputì— ì•„ë¬´ ê°’ë„ ìž…ë ¥ë˜ì§€ ì•Šì•˜ì„ ë•Œ ë‚˜íƒ€ë‚˜ëŠ” í…ìŠ¤íŠ¸ 
+   => value="soonho" : ì‹¤ì œ í• ë‹¹ë˜ëŠ” ê°’
+                     : ìš°ë¦¬ê°€ ë°ì´í„°ë¥¼ ë„£ìœ¼ë©´ ì´ ì†ì„±ì— ê°’ì´ ë“¤ì–´ê°
+                     : ì´ˆê¸°ê°’ì²˜ëŸ¼ ë‘˜ ìˆ˜ ìžˆìŒ
+                     : input ì¹¸ ì•ˆì— soonhoë¼ê³  ì í˜€ìžˆì„ê±°ê³  ë§ˆìš°ìŠ¤ë¥¼ í´ë¦­í•´ë„ ì‚¬ë¼ì§€ì§€ ì•Šì„ ê²ƒìž„
+                       ê°’ì„ ì ìœ¼ë©´ soonhoë’¤ì— ì´ì–´ì ¸ì„œ ì íž˜
 
--> <label>ÅÂ±× : ÇØ´çÇÏ´Â ¶óº§À» Å¬¸¯ ½Ã <input>ÅÂ±×°¡ È°¼ºÈ­ µÊ
-              : input ÅÂ±× ¾Õ¿¡ µé¾î°¡°Ô µÊ
+-> <label>íƒœê·¸ : í•´ë‹¹í•˜ëŠ” ë¼ë²¨ì„ í´ë¦­ ì‹œ <input>íƒœê·¸ê°€ í™œì„±í™” ë¨
+              : input íƒœê·¸ ì•žì— ë“¤ì–´ê°€ê²Œ ë¨
               : <label for =""></label>
               
--> <div>ÅÂ±× : ÅÂ±×µéÀ» ±¸ºÐÁþ°í ³ª´©±â À§ÇØ »ç¿ëµÇ´Â ÅÂ±× (divisionÀÇ ¾àÀÚ)
-            : <div>ÅÂ±× ¾È¿¡ <label>ÅÂ±×¸¦ µû·Î µû·Î Àû¾îÁÖ¸éµÊ
+-> <div>íƒœê·¸ : íƒœê·¸ë“¤ì„ êµ¬ë¶„ì§“ê³  ë‚˜ëˆ„ê¸° ìœ„í•´ ì‚¬ìš©ë˜ëŠ” íƒœê·¸ (divisionì˜ ì•½ìž)
+            : <div>íƒœê·¸ ì•ˆì— <label>íƒœê·¸ë¥¼ ë”°ë¡œ ë”°ë¡œ ì ì–´ì£¼ë©´ë¨
             
--> <select>ÅÂ±× : ¿©·¯ °³ÀÇ ¼±ÅÃÁö¸¦ Á¦½ÃÇÏ°í ½ÍÀ» ¶§ ¾¸
+-> <select>íƒœê·¸ : ì—¬ëŸ¬ ê°œì˜ ì„ íƒì§€ë¥¼ ì œì‹œí•˜ê³  ì‹¶ì„ ë•Œ ì”€
                : <select>
                      <option></option>
                  </select>
-               : <select name="gender"> : <input>ÅÂ±×ÀÇ name¼Ó¼º°ú µ¿ÀÏÇÏ°Ô ÀÛµ¿
-               : <option value="male">³²¼º</option> : <input>ÅÂ±×¿¡¼­ ÀÔ·ÂÇÑ °ª°ú µ¿ÀÏÇÑ ¿ªÇÒ 
+               : <select name="gender"> : <input>íƒœê·¸ì˜ nameì†ì„±ê³¼ ë™ì¼í•˜ê²Œ ìž‘ë™
+               : <option value="male">ë‚¨ì„±</option> : <input>íƒœê·¸ì—ì„œ ìž…ë ¥í•œ ê°’ê³¼ ë™ì¼í•œ ì—­í•  
 
 
--> <textarea>ÅÂ±× : ÇÑ ¹ø¿¡ ¸¹Àº ±ÛÀ» ÀÔ·Â¹ÞÀ» ¶§ »ç¿ë 
+-> <textarea>íƒœê·¸ : í•œ ë²ˆì— ë§Žì€ ê¸€ì„ ìž…ë ¥ë°›ì„ ë•Œ ì‚¬ìš© 
                  :<textarea></textarea>
                  
--> <button>ÅÂ±× : <input>ÅÂ±×ÀÇ ¹öÆ°Å¸ÀÔ°ú µ¿ÀÏÇÏ°Ô ¹öÆ°À» »ý¼º 
-               : <input type = "button" value = "È¸¿ø°¡ÀÔ">
-                 = <button type = "submit">È¸¿ø°¡ÀÔ</button>
-               : <button type = "reset"> ÅÂ±× ÀûÀ¸¸é ÀÔ·ÂÇß´ø input°ªµéÀÌ ÃÊ±âÈ­µÊ
+-> <button>íƒœê·¸ : <input>íƒœê·¸ì˜ ë²„íŠ¼íƒ€ìž…ê³¼ ë™ì¼í•˜ê²Œ ë²„íŠ¼ì„ ìƒì„± 
+               : <input type = "button" value = "íšŒì›ê°€ìž…">
+                 = <button type = "submit">íšŒì›ê°€ìž…</button>
+               : <button type = "reset"> íƒœê·¸ ì ìœ¼ë©´ ìž…ë ¥í–ˆë˜ inputê°’ë“¤ì´ ì´ˆê¸°í™”ë¨
                
-[table ÅÂ±×]
+[table íƒœê·¸]
 
 The <table> element creates a table.
 The <tr> element adds rows to a table.
@@ -212,9 +213,9 @@ Table headings clarify the meaning of data. Headings are added with the <th> ele
 Table data can span columns using the colspan attribute.
 Table data can span rows using the rowspan attribute.
 Tables can be split into three main sections: a head, a body, and a footer.
-A table¡¯s head is created with the <thead> element.
-A table¡¯s body is created with the <tbody> element.
-A table¡¯s footer is created with the <tfoot> element.
+A tableâ€™s head is created with the <thead> element.
+A tableâ€™s body is created with the <tbody> element.
+A tableâ€™s footer is created with the <tfoot> element.
 All the CSS properties you learned about in this course can be applied to tables and their data.
          
        

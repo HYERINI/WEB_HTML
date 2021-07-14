@@ -70,7 +70,7 @@
     </p>
 
     <p>
-        <h2>체크박스와 라디오버튼으로 선택지주기</h2>
+        <h2>체크박스와 라디오버튼으로 선택지주기 -> 왜 둘 다 체크가 다 돼?</h2>
         <fieldset>
             <legend>상품선택</legend>
             <p><b>주문할 상품 선택하세요</b></p>
@@ -81,6 +81,38 @@
             <p><b>포장선택</b></p>
             <label><input type="radio" value="nogift">포장안함</label>
             <label><input type="radio" value="forgift">포장함</label>
+        </fieldset>
+    </p>
+
+    <p>
+        <h2>스핀 박스를 사용해 숫자 입력하기 (number속성활용)</h2>
+        <fieldset>
+            <ul>
+                <li>
+                    <label><input type="checkbox" value="3kg">선물용 3kg</label>
+                    <input type="number" min="0" max="5">개(최대 5개)
+                </li>
+                <li>
+                    <label><input type="checkbox" value="5kg">선물용 5kg</label>
+                    <input type="number" min="0" max="3">개(최대 3개)
+                </li>
+            </ul>
+        </fieldset>
+    </p>
+
+    <p>
+        <h2>슬라이드막대를 사용해 숫자 입력하기 (range속성활용)</h2>
+        <fieldset>
+            <ul>
+                <li>
+                    <label><input type="checkbox" value="3kg">선물용 3kg</label>
+                    <input type="range" min="0" max="5" value="2">개(최대 5개)
+                </li>
+                <li>
+                    <label><input type="checkbox" value="5kg">선물용 5kg</label>
+                    <input type="range" min="0" max="3"value="0">개(최대 3개)
+                </li>
+            </ul>
         </fieldset>
     </p>
 </body>

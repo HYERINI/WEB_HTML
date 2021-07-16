@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>폼에서 사용하는 여러가지 태그</title>
+</head>
+<body>
+    <p>
+        <h2>textarea태그 : 여러 줄을 입력하는 텍스트 영역</h2>
+        <fieldset>
+            <legend>input 대신 textarea 사용</legend>
+            <label for="memo">메모</label>
+            <textarea id="memo" cols="40" rows="4"></textarea>
+        </fieldset>
+    </p>
+
+    <p>
+        <h2>select, option태그 : 드롭다운 목록 생성</h2>
+        <fieldset>
+            <legend>드롭다운 목록 만들기</legend>
+            <label for="prod1">상품선택</label>
+            <select id="prod1">
+                <option value="first" selected>selected속성 쓰인 값</option>
+                <option value="second">두번째</option>
+                <option value="third">세번째</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>select태그에 size 지정해서 두개 보이게 함</legend>
+            <label for="prod1">상품선택</label>
+            <select id="prod1" size="2">
+                <option value="first" selected>selected속성 쓰인 값</option>
+                <option value="second">두번째</option>
+                <option value="third">세번째</option>
+            </select>
+        </fieldset>
+    </p>
+
+    <p>
+        <h2>datalist, option 태그 : 데이터목록 만들기</h2>
+        <fieldset>
+            <legend>데이터목록 만들기</legend>
+            <label for="prod2">포장여부</label>
+            <input type="text" id="prod2" list="pack">
+            <datalist id="pack">
+                <option value="first">첫번째</option>
+                <option value="second">두번째</option>
+                <option value="third">세번째</option>
+            </datalist>
+        </fieldset>
+    </p>
+
+    <p>
+        <h2>button 태그 : 버튼 만들기</h2>
+        <fieldset>
+            <legend>input type="submit|reset|button"이랑 같은 결과</legend>
+            <button type="submit">전송하기</button>
+            <button type="reset">초기화하기</button>
+            <button type="button">그냥버튼</button>
+        </fieldset>
+    </p>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>input 태그의 주요속성 사용해보기</title>
+</head>
+<body>
+    <p>
+        <fieldset>
+            <legend>autofocus속성 : 자동으로 입력 커서를 갖다놓는다(아이디필드에)</legend>
+            <label for="user-id">아이디</label>
+            <input type="text" id="user-id" autofocus>
+            <label for="user-pw">비밀번호</label>
+            <input type="password" id="user-pw">
+        </fieldset>
+    </p>
+
+    <p>
+        <fieldset>
+            <legend>placeholder속성 : 필드에 대한 정보 제공</legend>
+            <label for="user-id">아이디</label>
+            <input type="text" id="user-id" placeholder="아이디를 입력하세요">
+            <label for="user-pw">비밀번호</label>
+            <input type="password" id="user-pw" placeholder="비밀번호를 입력하세요">
+        </fieldset>
+    </p>
+
+    <p>
+        <fieldset>
+            <legend>readonly속성 : 읽기 전용 필드 만들어줌</legend>
+            <label for="user-id">아이디</label>
+            <input type="text" id="user-id" placeholder="readonly를 적용해서 작성불가능" size="27" readonly>
+            <label for="user-pw">비밀번호</label>
+            <input type="password" id="user-pw" placeholder="비밀번호를 입력하세요">
+        </fieldset>
+    </p>
+
+    <p>
+        <fieldset>
+            <legend>required속성 : 필수 입력 필드 지정해줌</legend>
+            <label for="user-id">아이디</label>
+            <input type="text" id="user-id" placeholder="아이디를 입력하세요">
+            <label for="user-pw">비밀번호</label>
+            <input type="password" id="user-pw" placeholder="비밀번호를 입력하세요">
+            <label for="user-addr">주소</label>
+            <input type="text" id="user-addr" placeholder="필수입력필드" required>
+            <input type="submit" value="제출">
+        </fieldset>
+    </p>
+    
+
+</body>
+</html>
